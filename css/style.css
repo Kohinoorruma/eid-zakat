@@ -3,7 +3,7 @@ body {
 }
 
 .banner-part {
-    background-image: url(/images/banner.png);
+    background-image: url(../images/Eid.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -47,6 +47,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: -50px;
+    margin-bottom: 30px;
 
 }
 
@@ -64,6 +65,10 @@ body {
     color: rgb(105, 102, 102);
     margin-top: -40px;
     padding: 20px 0px;
+}
+
+.video {
+    margin-top: 180px;
 }
 
 .need-dua {
